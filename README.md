@@ -1,2 +1,2 @@
-# Git_Test2
+# GitTest2
 サンプル
